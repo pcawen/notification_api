@@ -1,0 +1,22 @@
+{
+  "name": "notificationAPI",
+  "version": "0.0.0",
+  "description": "A simple example of use of the Notification API",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pcawen/notification_api"
+  },
+  "author": "Pablo Cawen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pcawen/notification_api/issues"
+  }
+}
